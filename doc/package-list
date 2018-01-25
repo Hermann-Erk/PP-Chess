@@ -1,0 +1,7 @@
+org.hermann.controller
+org.hermann.controller.chessAI
+org.hermann.media
+org.hermann.model.board
+org.hermann.model.pieces
+org.hermann.model_tests
+org.hermann.view
